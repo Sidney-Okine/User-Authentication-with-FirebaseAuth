@@ -195,7 +195,7 @@ import SwiftUI
                                           "UA":"380",
                                           "AE":"971",
                                           "GB":"44",
-                                          "US":"1",
+                                          "US":"233", //for testing purposes
                                           "UY":"598",
                                           "UZ":"998",
                                           "VU":"678",
